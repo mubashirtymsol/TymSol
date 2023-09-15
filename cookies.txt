@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+netsoltech.com	TRUE	/	FALSE	1999999999	X-Mapping-jkdnmbml	69ADD34C347791B5BFA25FF0BB5FC4AC
+netsoltech.com	TRUE	/	FALSE	1999999999	PHPSESSID	f4f29f4b975b7e43f5c4cf9b387d01cd
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	lqFfipdycfXgs884QSy7pqsW8rqtL338cjpG2vrzjb8-1692742844-0-AXqd09mcmnhQnIn4MUygA3ReCPNYJKbsBpx4QOgEeDiKDotngTPvvT5+BFe6DYe3f0uWN55LDWFZonJbiDIvRxs=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+
